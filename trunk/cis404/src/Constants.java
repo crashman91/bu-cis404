@@ -1,7 +1,7 @@
 /**
  * 
  * @author Andrei Tolnai
- * @date 12 June 2010
+ * @date 12 July 2010
  * @assignment 5.2
  * @description Download and configure the Oracle Thin Drivers (the Oracle thin
  *              drivers .jar file is attached to the top of this assignment)
